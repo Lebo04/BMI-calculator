@@ -1,0 +1,8 @@
+body {
+    background-color: bisque;
+}
+
+.container {
+    text-align: center;
+    border: 5rem solid transparent;
+}
